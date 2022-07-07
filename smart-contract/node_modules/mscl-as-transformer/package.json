@@ -1,0 +1,14 @@
+{
+  "name": "mscl-as-transformer",
+  "version": "0.0.1",
+  "description": "AssemblyScript transformer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grégory Libert <greg_libert@yahoo.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "visitor-as": "^0.8.0"
+  }
+}
