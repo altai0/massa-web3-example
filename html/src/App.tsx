@@ -168,7 +168,7 @@ function App() {
         <p>Merhaba Massa.</p>
         <div>
           <NodeInfo />
-          <ListEvent />
+          
         </div>
         <div style={{ textAlign: "center" }}>
           <input
