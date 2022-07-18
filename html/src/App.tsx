@@ -18,7 +18,7 @@ const sc_addr = "A12TqbcgnLRunKh22JtkrMkTm4hCNjP7YpwAvUoHjgp2pmhGhUq";
 
 const baseAccount = {
   publicKey: "ut9mDR6B7pAnyYZKGTjtXRhzGLaRDKh9z3twRhvrjKgAKFgqL",
-  privateKey: "2aFR89jVH4wiWFW1dzQ3xCx2i575w5xZS5DAu38cKka53VRkDC",
+  secretKey: "2aFR89jVH4wiWFW1dzQ3xCx2i575w5xZS5DAu38cKka53VRkDC",
   address: "A12STskCiLPjAhRTS74tNU95KGdhF1FypfqqXXXyGYjibV4QwKTW",
 } as IAccount;
 
